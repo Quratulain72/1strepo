@@ -1,0 +1,22 @@
+@media only screen and (max-width:600px){
+ 
+    h1{
+        background-color: aquamarine;
+        color: azure;
+    }
+}
+@media only screen and (min-width:601px){
+    h1{
+        background-color: rgb(17, 79, 99);
+        color: azure;
+    }
+}
+@media only screen and (min-width:801px){
+    h1{
+        background-color: rgb(255, 127, 142);
+        color: azure;
+    }
+}
+h1{
+    text-align: center;
+}
